@@ -38,13 +38,13 @@ h1 {
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 2px;
     list-style-type: none;
 }
 
 #menu > li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 .active {
