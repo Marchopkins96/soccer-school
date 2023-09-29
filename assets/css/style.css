@@ -1,0 +1,21 @@
+/* Follwowing code removes default styles that are added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    background-color: #265440;
+}
+
+/* Main content */
+main {
+    background-color: #fffaf0;
+}
+
+/* Footer */
+footer {
+    background-color: #8cd790;
+}
