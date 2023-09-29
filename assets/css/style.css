@@ -21,6 +21,10 @@ header {
     background-color: #265440;
 }
 
+h1 {
+    font-family: 'Varela Round', sans-serif;
+}
+
 /* Main content */
 main {
     background-color: #fffaf0;
