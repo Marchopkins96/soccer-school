@@ -26,6 +26,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    padding: 0 16px;
 }
 
 header a {
@@ -96,6 +97,14 @@ main {
 /* Footer */
 footer {
     background-color: #8cd790;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
 /* Media query: tablets and larger (768px and up) */
