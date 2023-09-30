@@ -78,12 +78,19 @@ nav {
 .nav-menu-label {
     font-size: 2rem;
 }
+
+#logo {
+    font-size: 250%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+}
 /* Main content */
 main {
+    /* Push main content down to accomadate a larger header */
+    margin-top: 76px;
     background-color: #fffaf0;
     /* The following ensures that the main content takes up any space left on the page */
-    flex: 1 0 auto; 
-    margin-top: 47px;
+    flex: 1 0 auto;
 }
 
 /* Footer */
