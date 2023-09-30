@@ -83,7 +83,7 @@ main {
     background-color: #fffaf0;
     /* The following ensures that the main content takes up any space left on the page */
     flex: 1 0 auto; 
-    margin-top: 86px;
+    margin-top: 47px;
 }
 
 /* Footer */
