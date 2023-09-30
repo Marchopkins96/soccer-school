@@ -89,9 +89,14 @@ nav {
 main {
     /* Push main content down to accomadate a larger header */
     margin-top: 76px;
-    background-color: #fffaf0;
     /* The following ensures that the main content takes up any space left on the page */
     flex: 1 0 auto;
+}
+
+/* Homepage football image section */
+.homepage-football {
+    height: 800px;
+    width: 100%;
 }
 
 /* Footer */
