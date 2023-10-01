@@ -93,33 +93,43 @@ main {
     flex: 1 0 auto;
 }
 
-/* Homepage football image section */
-.homepage-football {
-    height: 1000px;
+/* Homepage football image section and text box*/
+#homepage-football-outer {
+    height: 480px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#homepage-football {
+    height: 500px;
     width: 100%;
     background: url("../images/homepage.football.webp") no-repeat center center/cover;
     background-size: cover;
+    position: relative;
 }
 
-.homepage-football-circle {
-    color: #3a3a3a;
-    text-transform: uppercase;
-    padding: 15px;
+#image-text {
+    /* Final rgba value sets opacity to semi transparent */
+    background-color: rgba(140, 215, 144, .7);
+    font-size: 130%;
     text-align: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
-    background-color: rgba(140, 215, 144, .7)
-    top: 25%;
-    left: 0;
-    right: 0;
-    margin: auto;
     position: absolute;
+    bottom: 0px;
+    width: 600px;
+    height: 120px;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5%;
+    bottom: 0%;
+    left: 50px;
 }
 
+#image-text > h1, #image-text > h2 {
+    color: #FFFAF0;
+}
 
 /* Footer */
 footer {
@@ -162,6 +172,9 @@ footer {
     .nav-menu-label {
         display: none;
     }
+
+    /* Homepage image */
+   
 }
 
 /* Media query: laptops and upwards (992px and up) */
