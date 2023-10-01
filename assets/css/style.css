@@ -106,7 +106,6 @@ main {
     width: 100%;
     background: url("../images/homepage.football.webp") no-repeat center center/cover;
     background-size: cover;
-    position: relative;
 }
 
 #image-text {
@@ -115,16 +114,11 @@ main {
     font-size: 130%;
     text-align: center;
     position: absolute;
-    bottom: 0px;
-    width: 600px;
-    height: 120px;
+    bottom: 30px;
+    width: 80%;
     min-height: 200px;
     padding-top: 40px;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 5%;
-    bottom: 0%;
-    left: 50px;
+    padding-left: 10px;
 }
 
 #image-text > h1, #image-text > h2 {
@@ -172,14 +166,32 @@ footer {
     .nav-menu-label {
         display: none;
     }
-
+    
     /* Homepage image */
-   
+    #image-text {
+        width: 300px;
+        right: 50px;
+    }
 }
 
 /* Media query: laptops and upwards (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+}
+
+/* Media query: small screen sizes for 320px and down */
+@media screen and (max-width: 320px) {
+    #menu {
+        margin-left: 10px;
+        font-size: 70%;
+        letter-spacing: 1px;
+    }
+
+    #image-text {
+        bottom: 0px;
+        left: -10px;
+        position: absolute;
     }
 }
