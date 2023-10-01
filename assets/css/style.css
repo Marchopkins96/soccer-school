@@ -34,7 +34,7 @@ header a {
     color: inherit;
 }
 
-h1 {
+h1, h2 {
     font-family: 'Varela Round', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -97,9 +97,29 @@ main {
 .homepage-football {
     height: 1000px;
     width: 100%;
-    background: url("../images/homepage.football.jpg") no-repeat center center/cover;
-    background: cover;
+    background: url("../images/homepage.football.webp") no-repeat center center/cover;
+    background-size: cover;
 }
+
+.homepage-football-circle {
+    color: #3a3a3a;
+    text-transform: uppercase;
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: rgba(140, 215, 144, .7)
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+}
+
 
 /* Footer */
 footer {
