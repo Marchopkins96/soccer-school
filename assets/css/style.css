@@ -257,6 +257,12 @@ main {
     text-transform: uppercase;
     text-decoration: none;
 }
+
+/* Map section */
+
+#map {
+    border: none;
+}
 /* Footer */
 footer {
     background-color: #8cd790;
