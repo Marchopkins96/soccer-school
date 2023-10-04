@@ -266,6 +266,12 @@ main {
 
 /* Gallery page CSS styles */
 
+#photos img {
+    width: 100%;
+    padding: 2px;
+    line-height: 1em;
+}
+
 
 /* Footer */
 footer {
