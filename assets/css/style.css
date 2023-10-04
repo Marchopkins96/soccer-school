@@ -263,6 +263,10 @@ main {
 #map {
     border: none;
 }
+
+/* Gallery page CSS styles */
+
+
 /* Footer */
 footer {
     background-color: #8cd790;
@@ -312,6 +316,8 @@ footer {
     }
 }
 
+
+
 /* Media query: laptops and upwards (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
@@ -321,15 +327,20 @@ footer {
 
 /* Media query: small screen sizes for 320px and down */
 @media screen and (max-width: 320px) {
+    /* Drop down menu */
     #menu {
         margin-left: 10px;
         font-size: 70%;
         letter-spacing: 1px;
     }
 
+    /* Homepage football image text box */
     #image-text {
         bottom: 0px;
         left: -10px;
         position: absolute;
     }
+
+    /* Gallery page */
+   
 }
