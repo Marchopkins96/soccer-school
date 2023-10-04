@@ -266,6 +266,26 @@ main {
 
 /* Gallery page CSS styles */
 
+.container {
+    max-width: 1224px;
+    width: 90%;
+    margin: auto;
+    padding: 40px 0;
+}
+
+.photo-gallery {
+    display: flex;
+    gap: 20px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
 
 /* Footer */
 footer {
