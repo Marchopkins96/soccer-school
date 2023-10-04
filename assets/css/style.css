@@ -266,30 +266,6 @@ main {
 
 /* Gallery page CSS styles */
 
-.container {
-    width: 90%;
-    margin: auto;
-    padding: 40px 0;
-}
-
-.photo-gallery {
-    display: flex;
-    gap: 20px;
-}
-
-.column {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.photo img {
-    width: 300px;
-    height: 100%;
-    border-radius: 5px;
-    object-fit: cover;
-}
-
 
 /* Footer */
 footer {
