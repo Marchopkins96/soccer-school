@@ -273,8 +273,69 @@ main {
     border-radius: 10px;
 }
 
+/* Sign up page */
 
+.sign-up-section {
+    background: url(../images/signup-background.jpg) no-repeat center center;
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+}
+
+.sign-up-form {
+    background-color: rgba(255, 255, 255, 0.8)
+}
+
+.sign-up-form>h2 {
+    text-align: center;
+}
+
+.sign-up-form>h3 {
+    margin: 10px 0 5px 0;
+}
+
+.text-input {
+    margin: 10px 8% 20px 2%;
+    background: #ffffff;
+    height: 25px;
+    width: 90%;
+    border: 2px solid hsl(123, 48%, 70%);
+    border-radius: 4px;
+}
+
+#message {
+    margin: 20px 8% 20px 2%;
+    width: 90%;
+    border: 2px solid hsl(123, 48%, 70%);
+    border-radius: 4px;
+}
+
+.form-submit-button {
+    background: hsl(123, 48%, 70%);
+    color: #252525;
+    border: 2px solid #252525;
+    padding: 15px 15px;
+    border-radius: 5px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.form-submit-button:hover {
+    background: hsl(123, 48%, 70%);
+    color: #252525;
+    border: 2px solid #252525;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 5px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+    text-transform: uppercase;
+    text-decoration: none;
+}
 /* Footer */
+
 footer {
     background-color: #8cd790;
 }
