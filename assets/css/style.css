@@ -283,7 +283,7 @@ main {
 }
 
 .sign-up-form {
-    background-color: rgba(255, 255, 255, 0.8)
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .sign-up-form>h2 {
@@ -333,6 +333,7 @@ main {
     font-size: large;
     text-transform: uppercase;
     text-decoration: none;
+    font-weight: 600;
 }
 /* Footer */
 
@@ -396,7 +397,6 @@ footer {
         column-count: 3;
         column-gap: 2.5px;
     }
-
 }
 
 
