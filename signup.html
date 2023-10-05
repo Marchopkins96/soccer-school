@@ -35,9 +35,35 @@
         </nav>
     </header>
 
-    <!-- Main content -->
-    <main>Main content</main>
+    <!-- Sign up form section -->
+    <main>
+        <section class="sign-up-section">
+            <div>
+                <form class="sign-up-form" action="https://formdump.codeinstitute.net" method="POST">
+                    <h2>Lets get you signed up!</h2>
+                    <label for="fname">First Name</label>
+                    <input id=fname class="text-input" name="first_name" type="text" required>
+                    <br>
+                    <label for="lname">Last Name</label>
+                    <input id="lname" class="text-input" name="first_name" type="text" required>
+                    <br>
+                    <label for="email">Email Address</label>
+                    <input type="email" class="text-input" name="email_address" required>
 
+                    <h3>Which football camps are you interested in?</h3>
+                    <input type="radio" id="six-to-eight" name="child_age" value="six-to-eight" required>
+                    <label for="six-to-eight">6 - 8 year olds football camp</label>
+                    <br>
+                    <input type="radio" id="nine-to-eleven" name="child_age" value="nine-to-eleven" required>
+                    <label for="nine-to-eleven">9 - 11 year olds football camp</label>
+                    <br>
+                    <input type="radio" id="twelve-to-thirteen" name="child_age" value="twelve-to-thirteen" required>
+                    <label for="twelve-to-thirteen">12 - 13 year olds football camp</label>
+
+                </form>
+            </div>
+        </section>
+    </main>
     <!-- Footer -->
     <footer>
         <ul id="social-networks">
