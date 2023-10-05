@@ -280,6 +280,7 @@ main {
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 
 .sign-up-form {
@@ -334,6 +335,21 @@ main {
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 600;
+}
+
+/* Thank you page */
+
+#thankyou-section {
+    background-image: url("../images/thankyou-page.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+}
+
+#thanks {
+    color: #252525;
+    background-colour: rgba(255, 255, 255, 0.8);
+    padding: 30px
 }
 /* Footer */
 
