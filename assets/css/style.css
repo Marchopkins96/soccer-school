@@ -340,16 +340,9 @@ main {
 /* Thank you page */
 
 #thankyou-section {
-    background-image: url("../images/thankyou-page.jpg");
+    background: url("../images/thankyou-page.jpg") no-repeat center center ;
     background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-}
-
-#thanks {
-    color: #252525;
-    background-colour: rgba(255, 255, 255, 0.8);
-    padding: 30px
+    height: 640px;
 }
 /* Footer */
 
