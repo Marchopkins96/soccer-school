@@ -5,7 +5,7 @@
 * {
     padding: 0;
     margin: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
 /* General styles */
@@ -476,6 +476,10 @@ footer {
 /* Media query: small screen sizes for 320px and down */
 @media screen and (max-width: 320px) {
     /* Drop down menu */
+    #logo {
+        font-size: 100%;
+    }
+    
     #menu {
         margin-left: 10px;
         font-size: 70%;
@@ -487,5 +491,17 @@ footer {
         bottom: 0px;
         left: -10px;
         position: absolute;
-    }   
+    }
+    
+    .section-heading {
+        font-size: 150%;
+    }
+}
+
+/* Media query: 462px and down */
+@media screen and (max-width: 462px) {
+    /* Main logo */
+    #logo {
+        font-size: 100%;
+    }
 }
