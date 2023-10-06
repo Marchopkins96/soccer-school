@@ -349,18 +349,49 @@ main {
 
 #thanks {
     background-color: rgba(255, 255, 255, 0.8);
-    font-size: 100%;
-    text-align: center;
-    position: absolute;
-    bottom: 30px;
+    box-sizing: border-box;
+    height: 400px;
     width: 80%;
-    min-height: 200px;
-    padding: 30px 30px 30px 30px;
-    border-radius: 25%;
+    margin: 20px 10% 20px 10%;
+    border-radius: 20px;
+    padding: 50px 20px 0px 20px;
+}
+
+#thanks h2 {
+    text-align:  center;
+    font-weight: 800;
+    font-size: 180%;
+}
+
+#thanks p {
+    text-align: center;
+    font-weight: 800;
+    font-size: 150%;
 }
 
 #thanks a {
     text-decoration: none;
+    text-align: center;
+    font-size: 100%;
+}
+
+#thanks>a>h3:hover {
+    color: rgba(140, 215, 144, .7);
+    font-weight: bold;
+    border: 5px #252525;
+}
+#thanks>a>h3 {
+    text-transform: uppercase;
+    color: #252525;
+    border:5px solid hsl(123, 48%, 70%);
+    border-radius: 25px;
+}
+
+#thanks>a {
+    font-size: 100%;
+    color: #252525;
+    margin-top: 0px;
+    text-align: center;
 }
 /* Footer */
 
