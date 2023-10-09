@@ -344,7 +344,8 @@ main {
 #thankyou-section {
     background: url("../images/thankyou-page.jpg") no-repeat center center ;
     background-size: cover;
-    height: 640px;
+    background-position: 75%;
+    flex-grow: 1;
 }
 
 #thanks {
