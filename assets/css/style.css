@@ -508,3 +508,11 @@ footer {
         font-size: 100%;
     }
 }
+
+/* Media query: 253px and down */
+@media screen and (max-width: 253px) {
+    /* Main logo */
+    #logo {
+        line-height: 32px;
+    }
+}
