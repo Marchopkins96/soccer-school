@@ -119,7 +119,7 @@ main {
     bottom: 30px;
     width: 80%;
     min-height: 200px;
-    padding-top: 10px;
+    padding-top: 0px;
     padding-left: 10px;
     border-radius: 25%;
 }
@@ -281,7 +281,7 @@ main {
     background: url(../images/signup-background.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: 75%;
-    padding: 20px 10% 0 10%;
+    padding: 0 10% 0 10%;
     flex-grow: 1;
 }
 
@@ -377,9 +377,11 @@ main {
 }
 
 #thanks>a>h3:hover {
-    color: rgba(140, 215, 144, .7);
+    color: #252525;
     font-weight: bold;
-    border: 5px #252525;
+    text-transform: uppercase;
+    border: 5px solid hsl(123, 48%, 70%);
+    border-radius: 25px;
 }
 #thanks>a>h3 {
     text-transform: uppercase;
