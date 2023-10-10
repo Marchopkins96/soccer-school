@@ -41,25 +41,26 @@
             <div>
                 <form class="sign-up-form" action="thankyou.html" method="GET">
                     <h2>Lets get you signed up!</h2>
-                    <label for="fname">First Name</label>
+                    <label for="fname" class="sign-up-text">First Name</label>
                     <input id=fname class="text-input" name="first_name" type="text" required>
                     <br>
-                    <label for="lname">Last Name</label>
+                    <label for="lname" class="sign-up-text">Last Name</label>
                     <input id="lname" class="text-input" name="first_name" type="text" required>
                     <br>
-                    <label for="email">Email Address</label>
-                    <input type="email" class="text-input" name="email_address" required>
-
+                    <label for="email" class="sign-up-text">Email Address</label>
+                    <input type="email" class="text-input" name="email_address" id="email" required>
+                        
                     <h3>Which football camps are you interested in?</h3>
-                    <input type="radio" id="six-to-eight" name="child_age" value="six-to-eight" required>
-                    <label for="six-to-eight">6 - 8 year olds football camp</label>
-                    <br>
-                    <input type="radio" id="nine-to-eleven" name="child_age" value="nine-to-eleven" required>
-                    <label for="nine-to-eleven">9 - 11 year olds football camp</label>
-                    <br>
-                    <input type="radio" id="twelve-to-thirteen" name="child_age" value="twelve-to-thirteen" required>
-                    <label for="twelve-to-thirteen">12 - 13 year olds football camp</label>
-                    
+                    <div class ="radio-buttons">
+                        <input type="radio" id="six-to-eight" name="child_age" value="six-to-eight" required>
+                        <label for="six-to-eight">6 - 8 year olds football camp</label>
+                        <br>
+                        <input type="radio" id="nine-to-eleven" name="child_age" value="nine-to-eleven" required>
+                        <label for="nine-to-eleven">9 - 11 year olds football camp</label>
+                        <br>
+                        <input type="radio" id="twelve-to-thirteen" name="child_age" value="twelve-to-thirteen" required>
+                        <label for="twelve-to-thirteen">12 - 13 year olds football camp</label>
+                    </div>
                     <h3>Have anything you would like to ask us?</h3>
                     <label for="message" id="message-box-label">Send us a message:</label>
                     <textarea name="message" id="message" cols="70" rows="10"></textarea>

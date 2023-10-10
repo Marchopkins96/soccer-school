@@ -298,6 +298,10 @@ main {
     margin: 10px 10px 5px 10px;
 }
 
+.sign-up-text {
+    margin: 10px 8% 20px 2%;
+}
+
 .text-input {
     margin: 10px 8% 20px 2%;
     background: #ffffff;
@@ -307,11 +311,23 @@ main {
     border-radius: 4px;
 }
 
+.sign-up-text {
+    margin: 10px 8% 20px 2%;
+}
+
+.radio-buttons {
+    margin: 10px 8% 20px 2%;
+}
+
 #message {
     margin: 20px 8% 20px 2%;
     width: 90%;
     border: 2px solid hsl(123, 48%, 70%);
     border-radius: 4px;
+}
+
+#message-box-label {
+    margin: 20px 8% 20px 2%;
 }
 
 .form-submit-button {
@@ -517,6 +533,14 @@ footer {
 
     .section-heading {
         font-size: 100%;
+    }
+
+    #thanks h2 {
+        font-size: 140%;
+    }
+
+    #thanks p {
+        font-size: 110%;
     }
 }
 
