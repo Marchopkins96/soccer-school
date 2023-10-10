@@ -82,11 +82,11 @@ Header displayed on a mobile screen
 
 ![Map-Footer](documents/map-and-footer.png)
 
-Map and footer in desktop view
+- Map and footer in desktop view
 
 ![Map-Footer-Mobile](documents/map-footer-mobile.png)
 
-Map and footer in mobile view
+- Map and footer in mobile view
 
 - Featured on all four pages
 - The map shows the location of where Soccer School holds its football camps
