@@ -65,12 +65,43 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 ### Header 
 
-[Header](documents/header.png)
+![Header](documents/header.png)
 Header displayed on a desktop screen
 
-[Header-Mobile](documents/header-mobile.png)
+![Header-Mobile](documents/header-mobile.png)
 Header displayed on a mobile screen
+
+![Header-burger](documents/dropdown.png)
 
 - Featured on all four pages
 - Includes the company name and a menu with links to the Home page, Gallery page and Sign Up page
-- The menu within the header reduces down to a burger icon when displayed on small screens with a dropdown menu
+- The menu within the header reduces down to a burger icon when displayed on small screens with a dropdown menu 
+- When a user hovers over the menu options in desktop view an animation underline shows which option they are choosing
+
+### Footer 
+
+![Map-Footer](documents/map-and-footer.png)
+Map and footer in desktop view
+
+![Map-Footer-Mobile](documents/map-footer-mobile.png)
+Map and footer in mobile view
+
+- Featured on all four pages
+- The map shows the location of where Soccer School holds its football camps
+- Includes social media links to: Facebook, Twitter, Instagram and Youtube
+- he social media links are all fully responsive and open us in a new tab
+
+### Services offered at Soccer School
+
+![Services](documents/services.png)
+
+- The services offered are shown in four identically bordered boxes equally spaced apart for an aesthetically pleasing look
+- Age groups and days/times are included
+- An additional information box is included with a call to action that links to the sign up page
+
+### Call to action 
+
+![Call-to-action](documents/call-to-action.png)
+
+- A call to action button is included directly below to the homepage image. It will link you directly to the 'Football camps at Soccer School' section when t is clicked on
+  
