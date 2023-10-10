@@ -281,7 +281,7 @@ main {
     background: url(../images/signup-background.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: 75%;
-    padding: 0 10% 0 10%;
+    padding: 10px 10% 10px 10%;
     flex-grow: 1;
 }
 
