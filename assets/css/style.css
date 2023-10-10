@@ -291,10 +291,11 @@ main {
 
 .sign-up-form>h2 {
     text-align: center;
+    font-size: large;
 }
 
 .sign-up-form>h3 {
-    margin: 10px 0 5px 0;
+    margin: 10px 10px 5px 10px;
 }
 
 .text-input {
