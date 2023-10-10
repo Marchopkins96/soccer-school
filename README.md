@@ -58,3 +58,19 @@ The colour scheme is a balance of white and green throughout the website, this i
 ![Color scheme](documents/colour-pallete.png)
 
 Varela Round is the font that has been used the whole way throughout the website. This font was chosen as it is easy to read in large text and small text. This font also provides a clean and vibrant look to the header of the website.
+
+### Features 
+
+The website consists of four pages as previously shown in the wireframes, the features of those pages are as follows:
+
+### Header 
+
+[Header](documents/header.png)
+Header displayed on a desktop screen
+
+[Header-Mobile](documents/header-mobile.png)
+Header displayed on a mobile screen
+
+- Featured on all four pages
+- Includes the company name and a menu with links to the Home page, Gallery page and Sign Up page
+- The menu within the header reduces down to a burger icon when displayed on small screens with a dropdown menu
