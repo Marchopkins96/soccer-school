@@ -50,3 +50,9 @@ The structure of the page will include four pages:
 4. **Thank You Page** Which includes a thank you message and link back to home page.
 
 ![Thankyou](documents/thankyou-full.png)
+
+### Colour Scheme & Fonts
+
+The colour scheme is a balance of white and green throughout the website, this is to maintain a link to football through the colours used. A light green has been used for headers and footers on all pages to maintain consistency. Football related backgrounds have been used one some pages to maintain the link to the services Soccer School provides. Text has been added primarily in dark grey or black, as well as white so that readability and contrast are maintained.
+
+Varela Round is the font that has been used the whole way throughout the website. This font was chosen as it is easy to read in large text and small text. This font also provides a clean and vibrant look to the header of the website.
