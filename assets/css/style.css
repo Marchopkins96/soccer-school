@@ -164,7 +164,7 @@ main {
 .section-heading {
     text-align: center;
     margin: 20px 0;
-    font-size: 200%;
+    font-size: 170%;
 }
 
 /* About us section */
@@ -510,6 +510,10 @@ footer {
 @media screen and (max-width: 462px) {
     /* Main logo */
     #logo {
+        font-size: 100%;
+    }
+
+    .section-heading {
         font-size: 100%;
     }
 }
