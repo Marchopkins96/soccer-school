@@ -444,6 +444,8 @@ footer {
 
     #image-text {
         border-radius: 40px;
+        min-height: 170px;
+        padding-top: 30px;
     }
 }    
 
@@ -531,6 +533,14 @@ footer {
         font-size: 100%;
     }
 
+    #image-text {
+        font-size: 100%;
+        min-height: 150px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border-radius: 15%;
+    }
+
     .section-heading {
         font-size: 100%;
     }
@@ -549,5 +559,21 @@ footer {
     /* Main logo */
     #logo {
         line-height: 32px;
+    }
+
+    #image-text h1 {
+        font-size: 100%;
+    }
+
+    #image-text h2 {
+        font-size: 100%;
+    }
+
+    #about-us h2 {
+        font-size: large;
+    }
+
+    #camp-times h2 {
+        font-size: large;
     }
 }
