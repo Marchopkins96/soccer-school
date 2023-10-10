@@ -558,7 +558,7 @@ footer {
 @media screen and (max-width: 253px) {
     /* Main logo */
     #logo {
-        line-height: 32px;
+        line-height: 35px;
     }
 
     #image-text h1 {
