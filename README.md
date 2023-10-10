@@ -78,12 +78,14 @@ Header displayed on a mobile screen
 - The menu within the header reduces down to a burger icon when displayed on small screens with a dropdown menu 
 - When a user hovers over the menu options in desktop view an animation underline shows which option they are choosing
 
-### Footer 
+### Footer
 
 ![Map-Footer](documents/map-and-footer.png)
+
 Map and footer in desktop view
 
 ![Map-Footer-Mobile](documents/map-footer-mobile.png)
+
 Map and footer in mobile view
 
 - Featured on all four pages
