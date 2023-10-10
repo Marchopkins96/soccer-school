@@ -25,3 +25,28 @@ Soccer School is a football camp based at York College, England, The football ca
 - Increase the flow of site traffic by making it eye catching and easy to navigate
 - Promote inclusion in sports and a feeling of togetherness
 
+## Structure & Design
+
+### Wireframes
+
+The structure of the page will include four pages:
+
+1. **Home Page** which has navigation features in the header and footer, an about section and a football camp times/additional information section. It will also feature a map with the location of our services.
+
+![Home](documents/homepage-top.png)
+
+![Home](documents/homepage-middle.png)
+
+![Home](documents/homepage-bottom.png)
+
+2. **Gallery Page** which features an abundance of photos from past football camps at Soccer School. It will also feature the same header and footer as the home page.
+   
+![Gallery](documents/gallery-full.png)
+
+3. **Sign Up Page** Which includes a form that includes name and email fields, as well as section on a childs age. There will also be a message field.
+
+![Signup](documents/signup-full.png)
+
+4. **Thank You Page** Which includes a thank you message and link back to home page.
+
+![Thankyou](documents/thankyou-full.png)
