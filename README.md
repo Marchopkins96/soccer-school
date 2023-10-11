@@ -153,3 +153,6 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Features a thank you message and a call to action to take the user back to the home page
 - This page is only reachable once the sign up form has been filled out and submitted
 
+#### Future additions
+
+- Add a calendar displaying all the dates which the football camps will be taking place on throughout the year
