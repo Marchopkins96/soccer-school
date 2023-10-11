@@ -65,8 +65,10 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 ### Header 
 
-![Header](documents/header.png)
-Header displayed on a desktop screen
+<details>
+<summary>Screenshot of the header on desktop</summary>
+<img src="documents/header.png" width="600">
+</details>
 
 ![Header-Mobile](documents/header-mobile.png)
 Header displayed on a mobile screen
