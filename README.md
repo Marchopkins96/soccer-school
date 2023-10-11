@@ -156,3 +156,36 @@ The website consists of four pages as previously shown in the wireframes, the fe
 #### Future additions
 
 - Add a calendar displaying all the dates which the football camps will be taking place on throughout the year
+
+## Validation 
+### HTML VAlidation
+
+The W3C Markup Validation service was used to validate the HTML code
+
+<details>
+<summary>Home</summary>
+<img src="documents/home-html.png" width="600">
+</details>
+
+- One error was returned relating to my map code but the link is fully functional and working as expected
+
+<details>
+<summary>Gallery</summary>
+<img src="documents/gallery-html.png" width="600">
+</details>
+
+- No errors or warnings
+
+<details>
+<summary>Sign up</summary>
+<img src="documents/signup-html.png" width="600">
+</details>
+
+- No errors or warnings
+
+<details>
+<summary>Thank you</summary>
+<img src="documents/thankyou-html.png" width="600">
+</details>
+
+- No errors or warnings
