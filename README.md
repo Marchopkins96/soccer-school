@@ -63,7 +63,7 @@ Varela Round is the font that has been used the whole way throughout the website
 
 The website consists of four pages as previously shown in the wireframes, the features of those pages are as follows:
 
-### Header 
+#### Header 
 
 <details>
 <summary>Screenshot of the header on desktop</summary>
@@ -83,7 +83,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - The menu within the header reduces down to a burger icon when displayed on smaller screens with a dropdown menu 
 - When a user hovers over the menu options in desktop view an animation underline shows which option they are choosing
 
-### Footer
+#### Footer
 
 <details>
 <summary>Screenshot of map and footer on desktop</summary>
@@ -100,7 +100,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Includes social media links to: Facebook, Twitter, Instagram and Youtube
 - the social media links are all fully responsive and open up in a new tab
 
-### Services offered at Soccer School
+#### Services offered at Soccer School
 
 ![Services](documents/services.png)
 
@@ -108,19 +108,19 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Age groups and days/times are included
 - An additional information box is included with a call to action that links to the sign up page
 
-### Call to action 
+#### Call to action 
 
 ![Call-to-action](documents/call-to-action.png)
 
 - A call to action button is included directly below to the homepage image. It will link you directly to the 'Football camps at Soccer School' section when it is clicked on 
 
-### About us 
+#### About us 
 
 ![About-us](documents/about-us.png)
 
 - An about us section is included on the home page which provides important information about Soccer School
 
-### Gallery page
+#### Gallery page
 
 <details>
 <summary>Screenshot of the gallery page on desktop</sumamry>
@@ -134,7 +134,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Features images of children taking part in past football camps at Soccer School
 - On a mobile screen the gallery images are presented in a single image column and expand out to rows of four as a screens size increases
 
-### Sign up page
+#### Sign up page
 
 <details>
 <summary>Screenshot of the sign up page on desktop</summary>
@@ -143,7 +143,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 - Features a form that a user can fill out to express their interest in a certain service and send a message requesting more information if necessary
 
-### Thank you page 
+#### Thank you page 
 
 <details>
 <summary>Screenshot of the thank you page on desktop</summary>
@@ -152,3 +152,4 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 - Features a thank you message and a call to action to take the user back to the home page
 - This page is only reachable once the sign up form has been filled out and submitted
+
