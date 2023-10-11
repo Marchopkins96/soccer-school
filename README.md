@@ -126,7 +126,6 @@ The website consists of four pages as previously shown in the wireframes, the fe
 <summary>Screenshot of the gallery page on desktop</sumamry>
 <img src="documents/gallery.png" width="600">
 </details>
-
 <details>
 <summary>Screenshot of the gallery page on mobile</summary>
 <img src="documents/gallery-mobile.png" width="600">
@@ -134,4 +133,22 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 - Features images of children taking part in past football camps at Soccer School
 - On a mobile screen the gallery images are presented in a single image column and expand out to rows of four as a screens size increases
-  
+
+### Sign up page
+
+<details>
+<summary>Screenshot of the sign up page on desktop</summary>
+<img src="documents/sign-up.png" width="500">
+</details>
+
+- Features a form that a user can fill out to express their interest in a certain service and send a message requesting more information if necessary
+
+### Thank you page 
+
+<details>
+<sumamary>Screenshot of the thsnk you page on desktop</summary>
+<img src="documents/thank-you.png" width="500">
+</details>
+
+- Features a thank you message and a call to action to take the user back to the home page
+- This page is only reachable once the sign up form has been filled out and submitted
