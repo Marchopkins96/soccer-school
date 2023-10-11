@@ -126,9 +126,10 @@ The website consists of four pages as previously shown in the wireframes, the fe
 <summary>Screenshot of the gallery page on desktop</sumamry>
 <img src="documents/gallery.png" width="600">
 </details>
+
 <details>
 <summary>Screenshot of the gallery page on mobile</summary>
-<img src="documents/gallery-mobile.png" width="600>
+<img src="documents/gallery-mobile.png" width="600">
 </details>
 
 - Features images of children taking part in past football camps at Soccer School
