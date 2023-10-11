@@ -16,7 +16,7 @@ Soccer School is a football camp based at York College, England, The football ca
 - I want to be able to find the services that are offered easily and quickly
 - I want to be able to find any social media feeds
 - I want to be able to ask questions
-- I want to seeimages of past football camps
+- I want to see images of past football camps
   
 ### Website owner goals 
 
@@ -120,5 +120,17 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 - An about us section is included on the home page which provides important information about Soccer School
 
+### Gallery page
 
+<details>
+<summary>Screenshot of the gallery page on desktop</sumamry>
+<img src="documents/gallery.png" width="600">
+</details>
+<details>
+<summary>Screenshot of the gallery page on mobile</summary>
+<img src="documents/gallery-mobile.png" width="600>
+</details>
+
+- Features images of children taking part in past football camps at Soccer School
+- On a mobile screen the gallery images are presented in a single image column and expand out to rows of four as a screens size increases
   
