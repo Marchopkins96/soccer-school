@@ -158,7 +158,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Add a calendar displaying all the dates which the football camps will be taking place on throughout the year
 
 ## Validation 
-### HTML VAlidation
+### HTML Validation
 
 The W3C Markup Validation service was used to validate the HTML code
 
