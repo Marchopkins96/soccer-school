@@ -146,7 +146,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 ### Thank you page 
 
 <details>
-<sumamary>Screenshot of the thsnk you page on desktop</summary>
+<summary>Screenshot of the thank you page on desktop</summary>
 <img src="documents/thank-you.png" width="500">
 </details>
 
