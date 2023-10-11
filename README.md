@@ -69,15 +69,18 @@ The website consists of four pages as previously shown in the wireframes, the fe
 <summary>Screenshot of the header on desktop</summary>
 <img src="documents/header.png" width="600">
 </details>
-
-![Header-Mobile](documents/header-mobile.png)
-Header displayed on a mobile screen
-
-![Header-burger](documents/dropdown.png)
+<details>
+<summary>Screenshot of header on mobile</summary>
+<img src="documents/header-mobile.png" width="600">
+</details>
+<details>
+<summary>Screenshot of header dropdown menu on mobile</summary>
+<img src="documents/dropdown.png> width="600">
+</details>
 
 - Featured on all four pages
 - Includes the company name and a menu with links to the Home page, Gallery page and Sign Up page
-- The menu within the header reduces down to a burger icon when displayed on small screens with a dropdown menu 
+- The menu within the header reduces down to a burger icon when displayed on smaller screens with a dropdown menu 
 - When a user hovers over the menu options in desktop view an animation underline shows which option they are choosing
 
 ### Footer
