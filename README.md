@@ -75,7 +75,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 </details>
 <details>
 <summary>Screenshot of header dropdown menu on mobile</summary>
-<img src="documents/dropdown.png"> width="600">
+<img src="documents/dropdown.png" width="600">
 </details>
 
 - Featured on all four pages
@@ -85,18 +85,20 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 ### Footer
 
-![Map-Footer](documents/map-and-footer.png)
+<details>
+<summary>Screenshot of map and footer on desktop</summary>
+<img src="documents/map-and-footer.png" width="600">
+</details>
+<details>
+<summary>Screenshot of map and footer on mobile</summary>
+<img src ="documents/map-footer-mobile.png" width="600">
+</details>
 
-- Map and footer in desktop view
-
-![Map-Footer-Mobile](documents/map-footer-mobile.png)
-
-- Map and footer in mobile view
-
-- Featured on all four pages
+- Footer featured on all four pages
+- Map link is solely feauted on the home page
 - The map shows the location of where Soccer School holds its football camps
 - Includes social media links to: Facebook, Twitter, Instagram and Youtube
-- he social media links are all fully responsive and open us in a new tab
+- the social media links are all fully responsive and open up in a new tab
 
 ### Services offered at Soccer School
 
