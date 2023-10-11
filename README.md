@@ -112,5 +112,13 @@ The website consists of four pages as previously shown in the wireframes, the fe
 
 ![Call-to-action](documents/call-to-action.png)
 
-- A call to action button is included directly below to the homepage image. It will link you directly to the 'Football camps at Soccer School' section when t is clicked on
+- A call to action button is included directly below to the homepage image. It will link you directly to the 'Football camps at Soccer School' section when it is clicked on 
+
+### About us 
+
+![About-us](documents/about-us.png)
+
+- An about us section is included on the home page which provides important information about Soccer School
+
+
   
