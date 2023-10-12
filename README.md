@@ -227,3 +227,15 @@ The Lighthouse feature on Google Chrome Devtools was used to assess the accessib
 
 - All pages generally scored high in all sections, The performance scores were lowest of all but still scored highly
 - I will look to improve these scores further in the future to maintain a high level of user accessibility
+
+## Testing
+### Manual Testing
+
+All features of the website have been vigorously tested to ensure they are working as expected. Each page of the website has been tested in different browsers and at different screen sizes from desktop size down to mobile screens. I tested that my sign up form worked using Code institute form-dump before i added a thank you page in its place. 
+Browsers tested on:
+- Google Chrome
+- Safari
+- Microsoft Edge
+
+
+ 
