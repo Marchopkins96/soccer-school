@@ -164,10 +164,10 @@ The W3C Markup Validation service was used to validate the HTML code
 
 <details>
 <summary>Home</summary>
-<img src="documents/home-html.png" width="600">
+<img src="documents/html-homeval.png" width="600">
 </details>
 
-- One error was returned relating to my map code but the link is fully functional and working as expected
+- No errors or warnings
 
 <details>
 <summary>Gallery</summary>
