@@ -189,3 +189,41 @@ The W3C Markup Validation service was used to validate the HTML code
 </details>
 
 - No errors or warnings
+
+### CSS Validation 
+
+The W3C Jigsaw Validation Service was used to validate the CSS code for the website
+
+<details>
+<summary>CSS Validation</summary>
+<img src="documents/css.png" width="600">
+</details>
+
+- No errors or warnings
+
+### Accessibility & Performance
+
+The Lighthouse feature on Google Chrome Devtools was used to assess the accessibility & Performance of the website
+
+<details>
+<summary>Home</summary>
+<img src="documents/lighthouse-home.png" width="600">
+</details>
+
+<details>
+<summary>Gallery</summary>
+<img src="documents/lighthouse-gallery.png" width="600">
+</details>
+
+<details>
+<summary>Sign up</summary>
+<img src="documents/lighthouse-signup.png" width="600">
+</details>
+
+<details>
+<summary>Thank you</summary>
+<img src="documents/lighthouse-thankyou.png" width="600">
+</details>
+
+- All pages generally scored high in all sections, The performance scores were lowest of all but still scored highly
+- I will look to improve these scores further in the future to maintain a high level of user accessibility
