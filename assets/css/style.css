@@ -263,6 +263,8 @@ main {
 /* Map section */
 
 #map {
+    height: 250px;
+    width: 100%;
     border: none;
 }
 
@@ -414,6 +416,7 @@ main {
     margin-top: 0px;
     text-align: center;
 }
+
 /* Footer */
 
 footer {
