@@ -292,11 +292,11 @@ All images used in this website were taken from [Pexels](https://www.pexels.com/
 - The websites layout has been modelled on and inspired by the Love Running walkthrough project and code from that walkthrough has been used and adapted in the making of this project.
 - The layout of the home page See what we have to offer', 'About us' and 'football camps' sections were modelled and inspired by Ulrike Riemenschneider's project <a href="https://uriem.github.io/art-school/index.html">Creative Spaces</a>. Code has been used and developed in this project.
 - The sign up page layout took inspiration from frapplecat's project <a href="https://frapplecat.github.io/moonup/signup.html">Moonup</a>.
-- <a href="https://www.w3schools.com/">W3 Schools</a>Was very helpful for tips and pointers on various things throughout the project.
+- <a href="https://www.w3schools.com/">W3 Schools</a> Was very helpful for tips and pointers on various things throughout the project.
 
 ### Acknowledgements
 
 I would like to thank:
 - My mentor Mitko Bachvarov for his Feedback, advice and guidance throughout this project.
 - Members of the Slack community who answered my questions & queries.
-- 
+- My partner, Harriet, for her feedback and encouragement throughout.
