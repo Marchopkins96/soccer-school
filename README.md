@@ -251,3 +251,10 @@ Browsers tested on:
 - Favicon.io
 - Balsamiq
 - W3 Schools
+
+## Bugs & Fixes
+
+| **Bug** | **Fix** |
+| ---------- | ---------- |
+| Home page validation returned an error for a bad value relating to the 'iframe' element | Bad value removed and a CSS class created for the maps height and width | 
+| On very small screens a thin white line appeared between the header and homepage image | Line height increased on the logo id to eliminate the line |
