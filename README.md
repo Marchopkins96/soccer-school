@@ -283,4 +283,12 @@ The repository can be cloned by the following steps:
 6. Type git clone and paste the URL ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7. Press enter to create your local clone
 
+## Credits
 
+### Images 
+All images used in this website were taken from [Pexels](https://www.pexels.com/)
+
+### Code 
+- The websites layout has been modelled on and inspired by the Love Running walkthrough project and code from that walkthrough has been used and adapted in the making of this project
+- The layout of the home page See what we have to offer', 'About us' and 'football camps' sections were modelled and inspired by Ulrike Riemenschneider's project <a href="https://uriem.github.io/art-school/index.html">Creative Spaces</a>. Code has been used and developed in this project.
+- 
