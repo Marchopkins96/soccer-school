@@ -134,7 +134,7 @@ The website consists of four pages as previously shown in the wireframes, the fe
 - Map link is solely feauted on the home page
 - The map shows the location of where Soccer School holds its football camps
 - Includes social media links to: Facebook, Twitter, Instagram and Youtube
-- the social media links are all fully responsive and open up in a new tab
+- The social media links are all fully responsive and open up in a new tab
 
 #### Services offered at Soccer School
 
