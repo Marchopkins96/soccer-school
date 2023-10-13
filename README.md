@@ -257,4 +257,4 @@ Browsers tested on:
 | **Bug** | **Fix** |
 | ---------- | ---------- |
 | Home page validation returned an error for a bad value relating to the 'iframe' element | Bad value removed and a CSS class created for the maps height and width | 
-| On very small screens a thin white line appeared between the header and homepage image | Line height increased on the logo id to eliminate the line |
+| On very small screens (below 253px) a thin white line appeared between the header and homepage image | Line height increased on the logo id to eliminate the line |
