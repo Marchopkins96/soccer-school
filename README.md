@@ -257,4 +257,30 @@ Browsers tested on:
 | **Bug** | **Fix** |
 | ---------- | ---------- |
 | Home page validation returned an error for a bad value relating to the 'iframe' element | Bad value removed and a CSS class created for the maps height and width | 
-| On very small screens (below 253px) a thin white line appeared between the header and homepage image | Line height increased on the logo id to eliminate the line |
+| On very small screens (below 253px) a thin white line appeared between the header and homepage image | Line height increased on the logo id to eliminate the line | 
+
+## Deployment & Develpoment 
+
+The website was deployed using GitHub pages by the following these steps: 
+
+1. In the GitHub repository find and select the settings tab
+2. Scroll down the menu on the left hand side of the page and select pages
+3. For the source select Branch: 'main' and then select: 'save'
+4. After the webpage refreshes automatically a banner box will display the following message: "Your site is live at "https://marchopkins96.github.io/soccer-school/"
+
+The website repository can be forked by the following steps: 
+
+1. Go to the GitHub repository
+2. In the top-right corner of the page, click Fork
+
+The repository can be cloned by the following steps: 
+
+1. Go to the GitHub repository
+2. Above the list of files, click <>code button
+3. Select if you prefer to clone using HTTPS, SHH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open terminal
+5. Change the current working directory to the location where you want the cloned directory
+6. Type git clone and paste the URL ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press enter to create your local clone
+
+
