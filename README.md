@@ -123,9 +123,10 @@ The website consists of four pages as previously shown in the wireframes, the fe
 #### Gallery page
 
 <details>
-<summary>Screenshot of the gallery page on desktop</sumamry>
+<summary>Screenshot of the gallery on desktop</summary>
 <img src="documents/gallery.png" width="600">
 </details>
+
 <details>
 <summary>Screenshot of the gallery page on mobile</summary>
 <img src="documents/gallery-mobile.png" width="600">
