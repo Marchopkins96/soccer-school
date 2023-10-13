@@ -5,6 +5,42 @@
 
 [Live webpage](https://marchopkins96.github.io/soccer-school/index.html)
 
+## List of Contents 
+
+- [Soccer School](#soccer-school)
+  - [List of Contents](#list-of-contents)
+  - [Introduction](#introduction)
+  - [Project Goals](#project-goals)
+    - [User Goals](#user-goals)
+    - [Website owner goals](#website-owner-goals)
+  - [Structure \& Design](#structure--design)
+    - [Wireframes](#wireframes)
+    - [Colour Scheme \& Fonts](#colour-scheme--fonts)
+    - [Features](#features)
+      - [Header](#header)
+      - [Footer](#footer)
+      - [Services offered at Soccer School](#services-offered-at-soccer-school)
+      - [Call to action](#call-to-action)
+      - [About us](#about-us)
+      - [Gallery page](#gallery-page)
+      - [Sign up page](#sign-up-page)
+      - [Thank you page](#thank-you-page)
+      - [Future additions](#future-additions)
+  - [Validation](#validation)
+    - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+    - [Accessibility \& Performance](#accessibility--performance)
+  - [Manual Testing](#manual-testing)
+  - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Frameworks \& Tools](#frameworks--tools)
+  - [Bugs \& Fixes](#bugs--fixes)
+  - [Deployment \& Develpoment](#deployment--develpoment)
+  - [Credits](#credits)
+    - [Images](#images)
+    - [Code](#code)
+    - [Acknowledgements](#acknowledgements)
+
 ## Introduction
 
 Soccer School is a football camp based at York College, England, The football camps are for children aged between 6 - 13 years old. The site is targeted at parents of children who may want to improve their footballing abilities in a fun and engaging environment.
